@@ -12,6 +12,9 @@ This repository contains a Power BI dashboard created to analyze student data fr
 4. **Understand Event Participation**: Gain insights into student participation in various events and activities.
 5. **Analyze Expected Salaries**: Compare expected salaries based on various factors such as GPA, family income, and event participation.
 
+![Screenshot 2024-02-28 150031](https://github.com/user-attachments/assets/0a683de9-c3af-4d1f-91ec-28c7fe811522)
+![Screenshot 2024-02-28 150046](https://github.com/user-attachments/assets/283f3745-c581-415e-b4ee-e85226798354)
+
 ## Key Performance Indicators (KPIs)
 
 1. **Number of Unique Students**: Total number of students analyzed.
@@ -39,15 +42,9 @@ This repository contains a Power BI dashboard created to analyze student data fr
 - **Python**: Data cleaning & analysis
 - **Power BI Desktop**:Interactive data visualization and dashboard creation.
 
-
 ## Conclusion
 
 This Power BI project provides a comprehensive analysis of student data, offering valuable insights that can inform educational strategies and support programs. By leveraging key performance indicators and detailed visualizations, stakeholders can make data-driven decisions to enhance student outcomes.
-
-![Screenshot 2024-02-28 150031](https://github.com/user-attachments/assets/0a683de9-c3af-4d1f-91ec-28c7fe811522)
-
-![Screenshot 2024-02-28 150046](https://github.com/user-attachments/assets/283f3745-c581-415e-b4ee-e85226798354)
-
 
 # Contact
 If you have any questions, suggestions, or feedback, feel free to contact me 
